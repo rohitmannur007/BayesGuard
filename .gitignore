@@ -1,7 +1,10 @@
 venv/
+*/venv/
+*/amex_venv/
 __pycache__/
 *.pyc
 *.pyo
+*.dylib
 .DS_Store
 *.log
 *.egg-info
