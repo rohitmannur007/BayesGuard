@@ -1,10 +1,12 @@
-venv/
 */venv/
 */amex_venv/
+venv/
 __pycache__/
 *.pyc
 *.pyo
 *.dylib
-.DS_Store
+*.so
 *.log
 *.egg-info
+.DS_Store
+.ipynb_checkpoints/
