@@ -359,13 +359,3 @@ Example `CONTRIBUTING.md` items:
 (Identical to the example in the `Headless / CI` section.)
 
 ---
-
-# Final notes & next steps I can do for you
-
-* I created this README to be **fully copy-paste ready**. Because GitHub intermittently returned a page-loading error while I attempted to enumerate every file, the README uses clear placeholders for notebook filenames. I can now:
-
-  * (A) Re-fetch the repo to replace placeholders with the exact notebook filenames and write per-file descriptions; or
-  * (B) Draft the `environment.yml`, `requirements.txt`, `Makefile`, `run_all_notebooks.sh`, and `data/README.md` as separate files so you can drop them into the repo (I already included the contents in this README); or
-  * (C) Paste the final README into chat here as plain markdown (if you prefer having the text in the chat rather than the canvas).
-
-Tell me which of (A), (B) or (C) you'd like next and I will proceed immediately.
